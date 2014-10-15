@@ -17,7 +17,7 @@ The codes assume readers have a basic understanding of fitting a model to data [
 who need a PKPD refresher can consult Gibaldi & Perrier [13], Rescigno [14], Tozer & Rowland [15], Riviere [16] and Bonate [17].
 Readers who want more in-depth knowlege of WinSAAM can refer to references [1], [10], and [11].
 
-All codes are followed by a section entitled "dissection." Dissection is a unique pedagogical tool developed by Al Kelly and Ira Pohl [18] to illuminate features of working code. A dissection is similar to a structured walk-through of the code. its intention is to explain to the reader newly encountered WinSAAM encoding elements and idioms found in the working code.
+All codes are followed by a section entitled "dissection." Dissection is a unique pedagogical tool developed by Al Kelly and Ira Pohl [18] to illuminate features of working code. A dissection is similar to a structured walk-through of the code. Its intention is to explain to the reader newly encountered WinSAAM encoding elements and idioms found in the working code.
 
 REFERENCES
 ==========
